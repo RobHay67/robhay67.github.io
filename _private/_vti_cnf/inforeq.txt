@@ -1,0 +1,14 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|28 Mar 2006 13:41:25 -0000
+vti_extenderversion:SR|5.0.2.6738
+vti_nosourcecontrol:SR|True
+vti_author:SR|BLUESWOOP5\\Rob
+vti_modifiedby:SR|BLUESWOOP5\\Rob
+vti_nexttolasttimemodified:TR|28 Mar 2006 13:41:25 -0000
+vti_timecreated:TR|28 Mar 2006 13:41:25 -0000
+vti_timelastindexed:TW|28 Mar 2006 13:41:25 -0000
+vti_lineageid:SR|{6D740257-CB54-4D29-911B-4793CE28124E}
+vti_cacheddtm:TX|28 Mar 2006 13:41:25 -0000
+vti_filesize:IR|0
+vti_backlinkinfo:VX|
+vti_donotpublish:BW|true
